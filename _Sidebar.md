@@ -1,2 +1,2 @@
 Home
-[Home] https://github.com/moussaWaked/TestRepo/wiki
+[Home](https://github.com/moussaWaked/TestRepo/wiki)
